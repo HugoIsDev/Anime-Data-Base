@@ -1,4 +1,4 @@
-# Calculator
-This is my first project. I will try to create a calculator using javascript.
+# Anime Data Base
+This is my first project. I will try to create an Anime Data Base.
 
-Initially the calculator will be able to calculate common operations as add, substract, multiply...
+Initially the Data Base will contain few animes and user will be able to make enquiries.
